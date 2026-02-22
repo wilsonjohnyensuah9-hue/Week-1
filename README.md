@@ -1,8 +1,6 @@
 # Digital Attendance System
 
 ## Course Information
-**Name:** Wilson John Yensuah
-**ID No:** 01241570D
 **Programme:** HND Electrical Engineering (Level 200)  
 **Course Code:** EEE227  
 **Institution:** Accra Technical University  
@@ -83,8 +81,8 @@ digital-attendance-system/
 
 ## Author
 
-Name: [Your Full Name]  
-Index Number: [Your Index Number]  
+Name: [WILSON JOHN YENSUAH]  
+Index Number: [01241570D]  
 
 ---
 
@@ -92,3 +90,4 @@ Index Number: [Your Index Number]
 
 This project was developed as part of the EEE227 Mid-Semester Capstone Project.  
 All work is original and developed using standard C++ programming practices.
+
